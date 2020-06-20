@@ -75,3 +75,6 @@ under the following section of the "pubspec.yaml" file
 ## Future Work
 #### 1) Implement Dark Theme  
 #### 2) Keep a check on flutter_tex package for web app bug resolution
+
+## References
+[Auto Math Handbook (by John Lawlor and Bill Hancock)](https://www.google.com/search?rlz=1C1CHBF_enIN883IN883&q=automath+handbook&spell=1&sa=X&ved=2ahUKEwiArpPs5pDqAhVKyjgGHWI9AnkQBSgAegQIGhAm&biw=1366&bih=625)
