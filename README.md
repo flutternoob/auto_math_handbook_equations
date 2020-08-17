@@ -1,7 +1,7 @@
 # Auto Math Handbook Equations (App Documentation)
 
 ## Description
-#### This App contains a list of equations from the book "Auto Math Handbook" by John Lawlor and Bill Hancock. The App is responsive based on the Device Type such as a Mobile, Tablet and PC. 
+#### This App contains a list of equations from the book "Auto Math Handbook" by John Lawlor and Bill Hancock. The App is responsive based on the Device Type such as a Mobile, Tablet and PC. This repository is private and is not free for use in any form, except by the owner of the repository.
 
 ## Project Setup
 #### Steps carried out before writing the application code:
