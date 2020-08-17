@@ -9,7 +9,7 @@
 1. Update the "pubspec.yaml" file to include the following packages
  ```
  flutter_tex: ^3.6.7+9
-  share: ^0.6.4+3
+ share: ^0.6.4+3
  ```
 under the following section of the "pubspec.yaml" file
  ```
