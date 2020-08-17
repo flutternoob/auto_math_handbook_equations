@@ -23,7 +23,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  #flutter_tex: ^3.6.7+4
   flutter_tex: ^3.6.7+9
   share: ^0.6.4+3
 
